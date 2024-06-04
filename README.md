@@ -1,6 +1,4 @@
-# (Odyssey Course) Intro to GraphQL with Python & Strawberry
-
-Welcome to the starter code for **Intro to GraphQL with Python & Strawberry**. You can find the [course lessons and instructions](https://apollographql.com/tutorials/intro-strawberry) on Odyssey, [Apollo](https://apollographql.com)'s learning platform.
+# Intro to GraphQL with Python & Strawberry
 
 ## How to use this repo
 
